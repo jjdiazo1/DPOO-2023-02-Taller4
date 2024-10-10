@@ -14,3 +14,6 @@ darle nuevo juego vuelve al inicio del todo, en tabla 4x4 y sin jugadas.
 
 LISTATOP10:
 En la lista esta el Jscroll pero no sirve porque no hay suficientes datos, pero ahi van saliendo los datos y los primeros 3 aparecen en tonalidad azul.
+
+## UML
+![UML lights out.png]
