@@ -16,4 +16,4 @@ LISTATOP10:
 En la lista esta el Jscroll pero no sirve porque no hay suficientes datos, pero ahi van saliendo los datos y los primeros 3 aparecen en tonalidad azul.
 
 ## UML
-![[UML LightsOut.png]]
+<img width="925" alt="UML LightsOut" src="https://github.com/user-attachments/assets/da5cb191-b8c3-4fd1-8116-cac445f8bdbd">
