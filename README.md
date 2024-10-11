@@ -1,6 +1,6 @@
 # Lights Out Game Java Swing
-<img width="839" alt="Screenshot 2024-10-10 at 6 55 10 PM" src="https://github.com/user-attachments/assets/ed9b871e-1ee1-4159-b194-3de389873fdf">
 
+https://github.com/user-attachments/assets/e3b8469e-a81e-476d-9120-1194f6f65818
 
 ## Overview
 
@@ -30,9 +30,13 @@ The diagram shows how each class interacts to manage the game state, display the
 1. **Easy Mode**:
    - The player has fewer lights to turn off, and the board is simpler to navigate.
    - Suitable for quick games or new players learning the mechanics.
+  
+<img width="839" alt="Screenshot 2024-10-10 at 6 55 10 PM" src="https://github.com/user-attachments/assets/ed9b871e-1ee1-4159-b194-3de389873fdf">
 
 2. **Medium Mode**
    - Intermediate difficulty
+  
+![Image 10-10-24 at 7 18 PM](https://github.com/user-attachments/assets/2e81cdf1-fb57-4648-a65c-2455d164300b)
 
 3. **Hard Mode**:
    - The board size increases, and the patterns of light changes are more complex.
