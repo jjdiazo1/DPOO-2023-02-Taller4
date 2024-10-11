@@ -1,7 +1,5 @@
 # Lights Out Game Java Swing
 
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://github.com/your-repository/LICENSE)
-
 ## Overview
 
 **Lights Out** is a classic puzzle game where the objective is to turn off all the lights on the board. The game is implemented in Java as part of a project for the **Object-Oriented Programming** course. It includes two difficulty modes (Easy and Hard) and supports various board sizes. The game tracks the top 10 best players based on their performance.
@@ -30,8 +28,11 @@ The diagram shows how each class interacts to manage the game state, display the
 1. **Easy Mode**:
    - The player has fewer lights to turn off, and the board is simpler to navigate.
    - Suitable for quick games or new players learning the mechanics.
+  
+2. **Medium Mode**
+   - Intermediate difficulty
 
-2. **Hard Mode**:
+3. **Hard Mode**:
    - The board size increases, and the patterns of light changes are more complex.
    - Provides a greater challenge for experienced players.
 
@@ -43,7 +44,7 @@ To run the **Lights Out** game, follow these steps:
 
 1. **Clone the repository** or download the project files.
 2. **Open the project** in an IDE such as **Eclipse** or **IntelliJ**.
-3. **Compile and run** the `LightsOutGUI.java` class. This class is responsible for initializing the game window and starting the game.
+3. **Run** the `LightsOutGUI.java` class. This class is responsible for initializing the game window and starting the game.
 
 The game interface allows you to select the board size and difficulty level, start a new game, reset the board, and view the top 10 scores.
 
@@ -60,7 +61,4 @@ Here are some screenshots of the game in action:
 ![Lights Out Screenshot 1](path/to/screenshot1.png)
 ![Lights Out Screenshot 2](path/to/screenshot2.png)
 
-## License
-
-This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
 
