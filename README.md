@@ -1,4 +1,6 @@
 # Lights Out Game Java Swing
+<img width="839" alt="Screenshot 2024-10-10 at 6 55 10 PM" src="https://github.com/user-attachments/assets/ed9b871e-1ee1-4159-b194-3de389873fdf">
+
 
 ## Overview
 
@@ -28,13 +30,15 @@ The diagram shows how each class interacts to manage the game state, display the
 1. **Easy Mode**:
    - The player has fewer lights to turn off, and the board is simpler to navigate.
    - Suitable for quick games or new players learning the mechanics.
-  
+
 2. **Medium Mode**
    - Intermediate difficulty
 
 3. **Hard Mode**:
    - The board size increases, and the patterns of light changes are more complex.
    - Provides a greater challenge for experienced players.
+  
+<img width="839" alt="Screenshot 2024-10-10 at 6 55 56 PM" src="https://github.com/user-attachments/assets/3d2cc22b-6cd9-4e57-9717-f4d8583fcfe0">
 
 Players can choose the game mode using the difficulty selector in the GUI.
 
@@ -51,14 +55,20 @@ The game interface allows you to select the board size and difficulty level, sta
 ## Features
 
 - **Top 10 Scores**: The game maintains a list of the top 10 scores, which can be reset by the user.
+
+<img width="942" alt="Screenshot 2024-10-10 at 6 55 50 PM" src="https://github.com/user-attachments/assets/f4354993-87db-4500-bd16-15cc5082270b">
+
+  
 - **Adjustable Board Sizes**: Choose between multiple board sizes, from 4x4 to 10x10.
+
+<img width="915" alt="Screenshot 2024-10-10 at 7 04 56 PM" src="https://github.com/user-attachments/assets/b4039a0a-8a04-4ccf-b471-197db1ac12b7">
+
+
 - **Interactive GUI**: The player interacts with the board by clicking on tiles, which toggles the lights.
 
-## Screenshots
+<img width="839" alt="Screenshot 2024-10-10 at 6 54 54 PM" src="https://github.com/user-attachments/assets/210ba0f3-1945-4878-aa26-e94183ce1ab6">
 
-Here are some screenshots of the game in action:
 
-![Lights Out Screenshot 1](path/to/screenshot1.png)
-![Lights Out Screenshot 2](path/to/screenshot2.png)
+
 
 
